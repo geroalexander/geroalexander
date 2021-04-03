@@ -14,6 +14,7 @@ When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest Spac
 
 ### My Tech Stack
 
+<p align="left">
 <img height="40" alt="Javascript" src="./assets/JS.png">
 <img height="40" alt="Typescript" src="./assets/TS.png">
 <img height="40" alt="MongoDB" src="./assets/MONGO.png">
@@ -21,3 +22,4 @@ When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest Spac
 <img height="40" alt="Redux" src="./assets/REDUX.png">
 <img height="40" alt="React" src="./assets/REACT.png">
 <img height="40" alt="Node" src="./assets/NODE.png">
+</p>
