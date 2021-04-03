@@ -23,3 +23,7 @@ When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest Spac
 <img height="40" alt="React" src="./assets/REACT.png">
 <img height="40" alt="Node" src="./assets/NODE.png">
 </p>
+
+### Reach Out
+- Email: gero.codes@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gero-kassing-9b79311a3/)
