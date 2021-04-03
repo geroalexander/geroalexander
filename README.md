@@ -4,13 +4,13 @@ I come from a hospitality background where the lack of technological innovation 
 
 When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest SpaceX news 🚀.
 
+<img align="right" alt="illustration of a CLI" src="./assets/CLI.png" width="500" height="360" />
+
 ### What I'm Doing
 
 - 🔭 I'm currently working on refactoring [VENT0](https://github.com/geroalexander/vento_client) from React-Native to React (as a PWA) using TypeScript, focusing on state management and CI/CD.
 - 🌱 I love using the command line and want to level up my linux sklls. Currently learning bash scripting and going on from there!
 - 📫 Drop me a message at **gero.codes@gmail.com**
-
-<img align="right" alt="illustration of a CLI" src="./assets/CLI.png" width="500" height="360" />
 
 ### My Tech Stack
 
