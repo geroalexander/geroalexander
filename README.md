@@ -14,10 +14,10 @@ When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest Spac
 
 ### My Tech Stack
 
-<code><img height="40" alt="Javascript" src="./assets/JS.png"></code>
-<code><img height="40" alt="Typescript" src="./assets/TS.png"></code>
-<code><img height="40" alt="MongoDB" src="./assets/MONGO.png"></code>
-<code><img height="40" alt="SQL" src="./assets/SQL.png"></code>
-<code><img height="40" alt="Redux" src="./assets/REDUX.png"></code>
-<code><img height="40" alt="React" src="./assets/REACT.png"></code>
-<code><img height="40" alt="Node" src="./assets/NODE.png"></code>
+<img height="40" alt="Javascript" src="./assets/JS.png">
+<img height="40" alt="Typescript" src="./assets/TS.png">
+<img height="40" alt="MongoDB" src="./assets/MONGO.png">
+<img height="40" alt="SQL" src="./assets/SQL.png">
+<img height="40" alt="Redux" src="./assets/REDUX.png">
+<img height="40" alt="React" src="./assets/REACT.png">
+<img height="40" alt="Node" src="./assets/NODE.png">
