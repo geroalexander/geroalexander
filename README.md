@@ -9,7 +9,7 @@ When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest Spac
 ### What I'm Doing
 
 - 🔭 I'm currently working on refactoring [VENT0](https://github.com/geroalexander/vento_client) from React-Native to React (as a PWA) using TypeScript, focusing on state management and CI/CD.
-- 🌱 I love using the command line and want to level up my linux sklls. Currently learning bash scripting and going on from there!
+- 🌱 I love using the command line and want to level up my linux skills. Currently learning bash scripting and going on from there!
 - 📫 Drop me a message at **gero.codes@gmail.com**
 
 ### My Main Tech Stack
