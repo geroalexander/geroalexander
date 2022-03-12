@@ -8,8 +8,7 @@ When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest Spac
 
 ### What I'm Doing
 
-- 🌱 I love using the command line and want to level up my linux skills.
-- 📫 Drop me a message at *gero.codes@gmail.com*
+🌱 Currently at [Famly](https://www.famly.co/) ❤️
 
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/gerokassing)
