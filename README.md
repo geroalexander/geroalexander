@@ -1,6 +1,4 @@
-## Hello friend 👋. I'm Gero, a JavaScript developer.
-
-I come from a hospitality background where the lack of technological innovation within the industry led me to make the jump to programming. Ultimately I wanted to build solutions rather than just wish for them, giving me the oppertunity to explore my creative side.
+## Hello friend 👋. I'm Gero.
 
 When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest SpaceX news 🚀.
 
