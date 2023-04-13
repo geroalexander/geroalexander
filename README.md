@@ -4,9 +4,9 @@ When I'm not coding I love to surf 🏄‍♂️ and read up on the lastest Spac
 
 <img align="right" alt="illustration of a CLI" src="./assets/CLI.png" width="300" height="216" />
 
-### What I'm Doing
+### What I'm doing
 
-🌱 Currently at [Famly](https://www.famly.co/) ❤️
+Currently remodeling an older Volkswagen T5 into a Surf Camper ;)
 
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/gerokassing)
